@@ -1,0 +1,7 @@
+name=Quote a Day
+author=Joshua Rosen
+description=A new quote every day.
+bundleID=com.joshuarosen.quoteaday
+version=1.1
+buildNumber=2
+imagePath=img
